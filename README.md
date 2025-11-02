@@ -1,18 +1,49 @@
-# React + Vite
+# HeadFones
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎧 HeadFones – A modern, animated React e-commerce UI for premium headphones. Experience lively product displays, smooth hover interactions, and a visually immersive web interface built using React, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Beautiful, responsive UI using Tailwind CSS
+2. Live animated navigation and footer with Framer Motion
+3. Interactive mouse-driven UI effects on images
+4. Custom-styled "Buy Now" button with hover transitions
+5. Displays multiple headphone color variants with image previews
+6. Smooth hover and entrance animations for all components
+7. Fully component-based and easy to extend
+8. Error handling for missing or broken assets
+9. Clean code architecture, ready for backend integration
+10. 100% responsive for all devices
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+| Technology     | Purpose                    |
+| -------------- | ------------------------- |
+| React          | Frontend framework        |
+| Tailwind CSS   | Styling utility           |
+| Framer Motion  | UI animations             |
+| JavaScript     | Component logic           |
+| Vite           | Dev/build tool            |
 
-Note: This will impact Vite dev & build performances.
+## Installation
+<pre> ```bash # Clone the repository git clone <your-repo-link> cd <your-project-directory> # Install dependencies npm install # Start the development server npm run dev ``` </pre>
 
-## Expanding the ESLint configuration
+##Preview
+<img width="1893" height="1076" alt="Screenshot 2025-11-02 153550" src="https://github.com/user-attachments/assets/8627426c-08e1-45b2-a8a2-d0e3ace7d335" />
+<img width="1883" height="1058" alt="Screenshot 2025-11-02 153600" src="https://github.com/user-attachments/assets/539adece-d48d-45a4-ad5c-6e02c3f33afb" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Future Improvements
+
+1. Add product catalog with backend and authentication
+2. Shopping cart and order history features
+3. Enhanced mobile UX and accessibility
+4. Ratings, reviews, and user profile pages
+5. Payment and checkout integration
+
+## Connect with me
+- LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohitkumar368/))
+
+
+
